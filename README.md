@@ -1,4 +1,4 @@
-This is a Next.js project with Next.js
+This is a Next.js project with Docker.
 
 ## Getting Started
 
